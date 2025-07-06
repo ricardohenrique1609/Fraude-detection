@@ -70,7 +70,8 @@ A complete fraud detection pipeline using data simulation, rule-based scoring, a
 
 ## 📷 Badge
 
-![Fraud Detection Badge](https://raw.githubusercontent.com/ricardohenrique1609/Fraude-detection/main/assets/badge_fraude.png)
+![Fraud Detection Badge](https://raw.githubusercontent.com/ricardohenrique1609/Fraude-detection/main/imagens/badge_fraude.png)
+
 
 ---
 
